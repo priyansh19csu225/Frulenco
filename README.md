@@ -1,4 +1,4 @@
 # Frulenco
 Furniture shopping website
 
-A web application with Spring web MVC, Spring security, Hibernate and MySQL for buying furniture.I created various services using Spring annotations for user and admin.
+- Created a web application with Spring MVC, Spring security, Hibernate ORM and MySQL for buying and selling furniture
